@@ -3,8 +3,7 @@
 ```
 mermaid
 flowchart TB
-start
-
+  start
 ```
 
 
