@@ -2,5 +2,6 @@
 
 ```mermaid
    flowchart LR
-   start[starting point]
+   A --> B
+   click A "https://www.google.com"
 ```
