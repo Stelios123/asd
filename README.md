@@ -2,5 +2,5 @@
 
 ```mermaid
    flowchart LR
-    id
+   start[starting point]
 ```
