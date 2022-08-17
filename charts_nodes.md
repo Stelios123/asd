@@ -6,5 +6,5 @@ A2 -- This is the text! ---B2
 A3 ---|This is the text|B3
 A4-.->B4;
 A5-. text .-> B5
-A == text ==> B
+A6 == text ==> B6
 ```
