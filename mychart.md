@@ -8,7 +8,7 @@ subgraph login
   type --> request{Send request to the server}
   request -- Success --> home(Home Page)
   request -- Error --> type
-  click A "https://www.github.com" _blank
+  click visit "https://www.github.com" _blank
 end  
 
 subgraph newplf
